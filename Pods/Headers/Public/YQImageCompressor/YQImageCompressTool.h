@@ -1,0 +1,1 @@
+../../../YQImageCompressor/YQImageCompressor/YQImageCompressTool.h
